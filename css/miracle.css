@@ -126,3 +126,41 @@ li a{
     color: black;
     font-size: 50px;
 }
+
+.choose{
+    display: flex;
+    justify-content: space-around;
+    padding-top: 20px;
+}
+.comfortable i{
+    background-color: goldenrod;
+    border-radius: 50%;
+    padding: 20px;
+    color: black;
+    text-size-adjust: 10px;
+}
+
+.Booking i{
+    background-color: goldenrod;
+    border-radius: 50%;
+    padding: 20px;
+    color: black;
+}
+
+.snack i{
+    background-color: goldenrod;
+    border-radius: 50%;
+    padding: 20px;
+    color: black;
+}
+
+.Access i{
+    background-color: goldenrod;
+    border-radius: 50%;
+    padding: 20px;
+    color: black;
+}
+
+.choose_content{
+    padding-top: 40px;
+}
