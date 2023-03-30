@@ -25,7 +25,7 @@
     padding-left: 30px;
 }
 small{
-    color: rgb(255, 186, 11);
+    color: goldenrod;
     font-size: 30px;
 }
 .background{
@@ -94,10 +94,10 @@ li{
 }
 li a{
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
 }
 .start_watch{
-    color: white;
+    color: whitesmoke;
     display: flex;
     justify-content: space-around;
 }
@@ -109,12 +109,12 @@ li a{
 }
 .start a{
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
     font-size: 20px;
 }
 .watch a{
     text-decoration: none;
-    color: white;
+    color: whitesmoke;
     font-size: 20px;
 }
 .choose_content p{
@@ -130,14 +130,27 @@ li a{
 .choose{
     display: flex;
     justify-content: space-around;
-    padding-top: 20px;
+    padding: 20px 10px 10px 20px;
+}
+.comfortable{
+    font-size: 20px;
+}
+.comfortable p{
+    padding-top: 10px;
 }
 .comfortable i{
     background-color: goldenrod;
     border-radius: 50%;
     padding: 20px;
     color: black;
-    text-size-adjust: 10px;
+    font-size: 20px;
+
+}
+.Booking{
+    font-size: 20px;
+}
+.Booking p{
+    padding-top: 10px;
 }
 
 .Booking i{
@@ -145,22 +158,119 @@ li a{
     border-radius: 50%;
     padding: 20px;
     color: black;
+    font-size: 20px;
 }
-
+.snack{
+    font-size: 20px; 
+    
+}
+.snack p{
+    padding-top: 10px;
+}
 .snack i{
     background-color: goldenrod;
     border-radius: 50%;
     padding: 20px;
     color: black;
+    font-size: 20px;
 }
-
+.Access{
+    font-size: 20px;
+}
+.Access p{
+    padding-top: 10px;
+}
 .Access i{
     background-color: goldenrod;
     border-radius: 50%;
     padding: 20px;
     color: black;
+    font-size: 20px;
+}
+.choose_content{
+    padding: 20px 10px 5px 30px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.master{
+    background-color: white;
+    
+}
+.history{
+    background-color: dimgray;
+    display: flex;
+    padding-left: 100px;
+}
+.history_content{
+    margin-left: 50px;
+    margin-top: 60px;
+}
+.history_content h5{
+    margin-left: 50px;
+    color: goldenrod;
+    padding-bottom: 20px;
+    font-size: 20px;
+}
+.history_content h2{
+    margin-left: 50px;
+    color: whitesmoke;
+    padding-bottom: 30px;
+    font-size: 40px;
+}
+.history_content p{
+    margin-left: 50px;
+    padding-bottom: 20px;
+    font-size: 20px;
+    color: whitesmoke;
+}
+.history_content div{
+    margin-left: 50px;
+}
+.pic img{
+    width: 500px;
+    height: 100%;  
+}
+.Read a{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+}
+.Read{
+    border: 1px solid gold;
+    background-color: gold;
+    border-radius: 25px;
+    padding: 5px 5px;
+    margin-top: 5px;
+}
+.flex{
+    color: whitesmoke;
+    display: flex;
+    justify-content: space-between;
+}
+.watch{
+    padding-top: 10px;
+}
+.various{
+    background-color: white;
+    padding-top: 60px;
+    display: flex;
+}
+.product h5{
+    color: goldenrod;
+    font-size: 20px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+.product h2{
+    color: black;
+    font-size: 40px;
+    margin-left: 80px;
+    padding-bottom: 20px;
+}
+.product p{
+    color: black;
+    font-size: 20px;
+    margin-left: 80px;
+    padding-bottom: 20px;
 }
 
-.choose_content{
-    padding-top: 40px;
-}
